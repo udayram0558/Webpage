@@ -1,0 +1,100 @@
+.Home,.sub,.Ser,.cu {
+    height: 100vh;
+    width: 200vh;
+
+}
+
+ul{
+    margin: 20px;
+    margin-left: 100px;
+    list-style-type: none;
+}
+img{
+    height: 100vh;
+    width: 200vh;
+    
+}
+.para{
+    padding-left:270px;
+    
+}
+li{
+    display: inline;
+    margin-right: 20px;
+}
+header{
+    background-color: rgb(14, 72, 231);
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+button{
+   margin-left: 500px;
+    color: black;
+}
+a{
+    color:white;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    margin-right: 80px;
+}
+.aboutimg{
+    height: 300px;
+    width: 300px;
+}
+.sub {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 200px;
+   }
+   h2{
+       padding-left: 450px;
+   }
+   h3{
+       padding-left: 450px;
+   }
+   .Ser{
+       display: flex;
+       flex-direction: row;
+       justify-content: space-around;
+   }
+   .one{
+       height: 250px;
+       width: 250px;
+   }
+   .two{
+       height: 250px;
+       width: 250px;
+   }
+   .three{
+       height: 250px;
+       width: 250px;
+   }
+   .pro{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   }
+   .four{
+       height: 250px;
+       width: 250px;
+   }
+   .five{
+    height: 250px;
+    width: 250px;
+}
+.six{
+    height: 250px;
+    width: 250px;
+}
+h5{
+    padding-left: 450px;
+}
+h4{
+    padding-left: 450px;
+}
+.cancel{
+    
+}
